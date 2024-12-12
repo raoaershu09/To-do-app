@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281511142464",
+    "project_id": "america-312a1",
+    "storage_bucket": "america-312a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281511142464:android:7cf1539be818aa9c51eba5",
+        "android_client_info": {
+          "package_name": "com.aersh.fireapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxobWBkEpzwFpPBXofKQLJx0F25ZOtR6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
